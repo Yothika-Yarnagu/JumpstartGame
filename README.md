@@ -1,1 +1,1 @@
-# Snowglobe1
+Intuition based game
